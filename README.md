@@ -32,8 +32,8 @@ Huddle landing page with single introductory section
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub/responsive-page-using-css-flexbox-vy5gYAnsih)
+- Live Site URL:[Live site]((https://tiny-florentine-6b8e5b.netlify.app/)
 
 ## My process
 
@@ -63,7 +63,7 @@ Huddle landing page with single introductory section
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Hawi Girmachew](https://tiny-florentine-6b8e5b.netlify.app/)
 - Frontend Mentor - [@Hawigirmachew](https://www.frontendmentor.io/profile/Hawigirmachew)
 - Twitter - [@girmachee_h](https://www.twitter.com/girmachee_h)
 
