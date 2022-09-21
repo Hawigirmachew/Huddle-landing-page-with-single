@@ -26,7 +26,9 @@ Huddle landing page with single introductory section
 
 ### Screenshot
 
+![device-view](https://user-images.githubusercontent.com/88828065/191623393-bbdb0330-a66a-4800-b2fc-8538d7e26ea3.PNG)
 
+![mobile-device](https://user-images.githubusercontent.com/88828065/191623406-5886bec6-295e-4cb4-a72c-a4ac19e5e3b1.PNG)
 
 ### Links
 
